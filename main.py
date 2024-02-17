@@ -1,4 +1,4 @@
-number = 1234
+number = int(input('Please enter your 4-digit number:   '))
 
 last_num = number%10
 
@@ -15,3 +15,4 @@ print(first_num)
 print(second_num)
 print(third_num)
 print(last_num)
+
